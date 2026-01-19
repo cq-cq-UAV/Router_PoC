@@ -1,4 +1,4 @@
-# **Buffer Overflow Vulnerability in SetVirtualServerCfg Function of AC8 Router Firmware US_AC8V4.0si_V16.03.34.06_cn_TDC01**
+# **Buffer Overflow Vulnerability in SetNetControlList Function of AC8 Router Firmware US_AC8V4.0si_V16.03.34.06_cn_TDC01**
 
 ## 1. Description
 
