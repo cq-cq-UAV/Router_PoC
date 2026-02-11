@@ -21,7 +21,8 @@ We believe in responsible disclosure and have followed coordinated disclosure pr
 
 EleFuzz is an **adaptive black-box network protocol fuzzer** that:
 - Applies state-aware mutations
-- **Handles packet fragmentation and reassembly across multiple network layers**
+- **Performs application-layer message fragmentation guided by differential testing results**
+- **Adaptively selects packet fragments as mutation positions during fuzzing**
 - Targets proprietary network protocols commonly found in IoT devices
 
 > **Open Source Status**  
